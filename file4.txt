@@ -1,3 +1,6 @@
 iphoneX
 this is a forth file 
 lets add it and commit
+one line added
+one line removid
+added again
